@@ -16,12 +16,12 @@ A repo of elementary OS apps, a lot of them were unmaintained and were thus be r
 
 
 #### Apps:
- - [Inscriptions](https://github.com/elly-codes/inscriptions): Translation app via DeepL. Status: Awaiting icon
- - [Unboxing](https://github.com/elly-codes/unboxing): Install deb packages easy. Status: yes
- - [Jorts](https://github.com/elly-codes/jorts): Sticky notes. Status: awaiting gtk 4.22 to implement status saving
- - [Reminduck](https://github.com/elly-codes/reminduck): Reminders. Status: yes
- - [Rollit](https://github.com/elly-codes/rollit): Dice app. Status: Appcenter
- - [Cherrypick](https://github.com/elly-codes/cherrypick): Color picker. Status: Unreleased features
+ - [Inscriptions](https://github.com/elly-codes/inscriptions): Translation app via DeepL
+ - [Unboxing](https://github.com/elly-codes/unboxing): Install deb packages easy
+ - [Jorts](https://github.com/elly-codes/jorts): Sticky notes
+ - [Reminduck](https://github.com/elly-codes/reminduck): Reminders
+ - [Rollit](https://github.com/elly-codes/rollit): Dice app
+ - [Cherrypick](https://github.com/elly-codes/cherrypick): Color picker
 
 #### Wingpanel Indicators:
  - [One Thing](https://github.com/elly-codes/wingpanel-indicator-onething): Simply display some text in the elementary OS top bar[DEB](https://github.com/ellie-commons/wingpanel-indicator-onething/blob/main/wingpanel-indicator-onething_1.3.0_amd64.deb)
